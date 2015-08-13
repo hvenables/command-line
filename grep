@@ -1,0 +1,6 @@
+The grep command in Unix
+
+The grep command searches the contents of files for specified information.
+
+The grep command is particularly useful in going through large amounts of information and when used in conjunction
+with other commands in unix. This may be a command subsitution or when using pipes or redirection.
