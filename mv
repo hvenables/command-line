@@ -1,0 +1,5 @@
+The mv Command in Unix
+
+The mv command has two uses; 
+  * It can be used to move a file from a location to a set destination. 
+  * It can also be used to rename a file by stating current file name followed by desired file name.
